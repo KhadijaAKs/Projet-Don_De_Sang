@@ -12,9 +12,9 @@
 ## Comptes de test
 | Rôle | Utilisateur | Mot de passe |
 |---|---|---|
-| ADMIN | admin | Admin@2025 |
-| MEDECIN | medecin | Medecin@2025 |
-| SECRETAIRE | secretaire | Secret@2025 |
+| ADMIN | admin | Admin@2026 |
+| MEDECIN | medecin | Medecin@2026 |
+| SECRETAIRE | secretaire | Secret@2026 |
 
 ## Scénario de test
 1. secretaire : ajouter un donneur, enregistrer un don (statut EN STOCK)
